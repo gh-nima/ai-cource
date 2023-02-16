@@ -1,12 +1,12 @@
-- title: Start
+##- title: Start
   url: "/"
   side: left
 
-- title: Getting Started
+##- title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+##- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- ##title: "Header Styles"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,26 +50,26 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: Artificial Intelligence
+  url: "/artificial intelligence/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Lectures"
     url: "/changelog/"
   - title: "Roadmap"
-    url: "/roadmap/"
+    url: "/AI Lectures/"
 
-- title: Blog
-  url: "/blog/"
+- title: Computational Intelligence
+  url: "/computational intelligence/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Lectures"
+    url: "/CI Lectures/"
 
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/About/"
   side: right
